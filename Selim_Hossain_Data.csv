@@ -1,0 +1,32 @@
+EST,Temperature(C),DewPoint(F),Humidity(Kg/m3),Sea Level Pressure(Pa),VisibilityMiles(Miles),WindSpeed(MPH),CloudCover(Km),City(BD),Population(Million),SeaDistance(Km),Transport,Events
+0,1/1/2016,38,23,52,30.03,10,8.0,5,Dhaka,10,34,Bus,Sunny
+1,1/2/2016,36,18,46,30.02,10,7.0,3,Brahmanbaria,13,54,Train,Sunny
+2,1/3/2016,40,21,47,29.86,10,8.0,1,Chadpur,11,56,Train,Rain
+3,1/4/2016,25,9,44,30.05,10,9.0,3,Fathapur,15,76,Bus,Cloudy
+4,1/5/2016,20,-3,41,30.57,10,5.0,0,Chandidar,8,53,Tram,Rain
+5,1/6/2016,33,4,35,30.5,10,4.0,0,Kasba,23,75,Tram,Sunny
+6,1/7/2016,39,11,33,30.28,10,2.0,3,Akhaura,27,75,Bus,Rain
+7,1/8/2016,39,29,64,30.2,10,4.0,8,Barishal,22,34,Bus,Wet
+8,1/9/2016,44,38,77,30.16,9,8.0,8,Mirpur,13,77,Train,Rain
+9,1/10/2016,50,46,71,29.59,4,,7,Chad ,12,45,Train,Rain
+10,1/11/2016,33,8,37,29.92,10,,1,Nouapara,11,23,Train,Wet
+11,1/12/2016,35,15,53,29.85,10,6.0,4,Mollabari,10,45,Bus,Rain
+12,1/13/2016,26,4,42,29.94,10,10.0,0,Joynagor,17,70,Tram,Foggy
+13,1/14/2016,30,12,47,29.95,10,5.0,7,Rajnagor,19,87,Tram,Snow
+14,1/15/2016,43,31,62,29.82,9,5.0,2,Ganpur,13,77,Bus,Snow
+15,1/16/2016,47,37,70,29.52,8,7.0,7,Rampur,16,85,Train,Rain
+16,1/17/2016,36,23,66,29.78,8,6.0,6,Dojonogor,14,46,Bus,Fog-Snow
+17,1/18/2016,25,6,53,29.83,9,12.0,2,Baganbari,15,67,Bus,Snow
+18,1/19/2016,22,3,42,30.03,10,11.0,1,Nordda,20,34,Tram,Sunny
+19,1/20/2016,32,15,49,30.13,10,6.0,2,Bashundhara,11,65,Bus,Sunny
+20,1/21/2016,31,11,45,30.15,10,6.0,1,Ghatpur,17,38,Train,Rain
+21,1/22/2016,26,6,41,30.21,9,,3,KalaChadpur,14,98,Train,Snow
+22,1/23/2016,26,21,78,29.77,1,16.0,8,Bimnbondor,17,49,Tram,Fog-Snow
+23,1/24/2016,28,11,53,29.92,8,6.0,3,Nodiya,18,56,Bus,Snow
+24,1/25/2016,34,18,54,30.25,10,3.0,2,Malibag,13,44,Bus,Snow
+25,1/26/2016,43,29,56,30.03,10,7.0,2,Uttara,15,12,Train,Cloudy
+26,1/27/2016,41,22,45,30.03,10,7.0,3,Framgate,11,78,Tram,Rain
+27,1/28/2016,37,20,51,29.9,10,5.0,1,Koustia,19,98,Bus,Rain
+28,1/29/2016,36,21,50,29.58,10,8.0,4,Fenni,20,45,Bus,Sunny
+29,1/30/2016,34,16,46,30.01,10,7.0,0,Kaijatoli,12,34,Train,Cloudy
+30,1/31/2016,46,28,52,29.9,10,5.0,0,Cumilla,10,28,Train,Rain
